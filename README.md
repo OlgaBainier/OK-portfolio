@@ -48,7 +48,7 @@
  <p> Выводы: воздействие "тест" приводит к увеличению как среднего размера платежа, так и конверсии в платеж по сравнению с воздействием "контроль" <p>
  <p> Ссылка на проект:  <p>
  https://github.com/OlgaBainier/OK-portfolio/blob/main/Анализ%20АБ%20Теста.ipynb
- https://github.com/OlgaBainier/OK-portfolio/blob/main/final_report.xlsx
+ <p>https://github.com/OlgaBainier/OK-portfolio/blob/main/final_report.xlsx<p>
  ## Контактная информация
 <p>email: okkirillova@gmail.com<p>
 
